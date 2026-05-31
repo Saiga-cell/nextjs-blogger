@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      <p>Hello World, This is the Posts page</p>
+      <p>Hello World, This is the Posters page</p>
     </div>
   );
 }
